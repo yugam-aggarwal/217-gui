@@ -1,0 +1,11 @@
+C:\Users\yugam\OneDrive\Desktop\protocolGUI\bin\Debug\protocolGUI.exe.config
+C:\Users\yugam\OneDrive\Desktop\protocolGUI\bin\Debug\protocolGUI.exe
+C:\Users\yugam\OneDrive\Desktop\protocolGUI\bin\Debug\protocolGUI.pdb
+C:\Users\yugam\OneDrive\Desktop\protocolGUI\obj\Debug\protocolGUI.csproj.AssemblyReference.cache
+C:\Users\yugam\OneDrive\Desktop\protocolGUI\obj\Debug\protocolGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\yugam\OneDrive\Desktop\protocolGUI\obj\Debug\protocolGUI.Form1.resources
+C:\Users\yugam\OneDrive\Desktop\protocolGUI\obj\Debug\protocolGUI.Properties.Resources.resources
+C:\Users\yugam\OneDrive\Desktop\protocolGUI\obj\Debug\protocolGUI.csproj.GenerateResource.cache
+C:\Users\yugam\OneDrive\Desktop\protocolGUI\obj\Debug\protocolGUI.csproj.CoreCompileInputs.cache
+C:\Users\yugam\OneDrive\Desktop\protocolGUI\obj\Debug\protocolGUI.exe
+C:\Users\yugam\OneDrive\Desktop\protocolGUI\obj\Debug\protocolGUI.pdb
